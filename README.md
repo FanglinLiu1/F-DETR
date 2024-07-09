@@ -1,3 +1,1 @@
-<h2 align="center">DETR</h2>
-
-This is the official implementation of the paper "[DETR](https://github.com/FanglinLiu1/F-DETR/)".
+<h2 align="center">Rethinking the Multi-Scale Feature Hierarchy in Detection Transformers</h2>
