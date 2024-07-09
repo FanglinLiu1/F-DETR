@@ -10,14 +10,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/FanglinLiu1/F-DETR/assets/77494834/0e" width=500 >
-</div>
-
-
-
-
 This is the official implementation of the paper "[DETR](https://github.com/FanglinLiu1/F-DETR/)".
-
-
-## 🚀 Updates
