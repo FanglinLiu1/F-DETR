@@ -26,7 +26,7 @@
 
 
 
-This is the official implementation of the paper "[DETR](https://)".
+This is the official implementation of the paper "[DETR](https://github.com/FanglinLiu1/F-DETR/)".
 
 
 ## 🚀 Updates
