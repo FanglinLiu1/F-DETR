@@ -44,12 +44,16 @@
 ## 引用
 如果需要在你的研究中使用F-DETR，请点赞本存储库并通过以下方式引用我们的论文：
 ```
-@misc{,
-      title={},
-      author={},
-      year={},
-      eprint={},
-      archivePrefix={},
-      primaryClass={}
+@article{LIU2025113081,
+      title = {Rethinking the multi-scale feature hierarchy in object detection transformer (DETR)},
+      journal = {Applied Soft Computing},
+      volume = {175},
+      pages = {113081},
+      year = {2025},
+      issn = {1568-4946},
+      doi = {https://doi.org/10.1016/j.asoc.2025.113081},
+      url = {https://www.sciencedirect.com/science/article/pii/S1568494625003928},
+      author = {Fanglin Liu and Qinghe Zheng and Xinyu Tian and Feng Shu and Weiwei Jiang and Miaohui Wang and Abdussalam Elhanashi and Sergio Saponara},
+      keywords = {Object detection, Deep neural network, Transformer, Detection Transformer (DETR), Multi-branch structure},
 }
 ```
